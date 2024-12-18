@@ -1,0 +1,16 @@
+.form-container {
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+    margin-top: 20px;
+  }
+  
+  .form-box {
+    width: 45%;
+    border: 2px dashed #ccc;
+    padding: 10px;
+    background-color: #fff;
+    border-radius: 10px;
+    min-height: 300px;
+  }
+  
